@@ -1,4 +1,4 @@
-# Counting app - Demo React and NodeJS app
+# Counting app - Demo React and NodeJS app 2
 
 [![Build and push frontend](https://github.com/sebi364/m109/actions/workflows/build-frontend.yml/badge.svg)](https://github.com/sebi364/m109/actions/workflows/build-frontend.yml)
 [![Build and push Backend](https://github.com/sebi364/m109/actions/workflows/build-backend.yml/badge.svg)](https://github.com/sebi364/m109/actions/workflows/build-backend.yml)
